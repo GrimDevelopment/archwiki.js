@@ -3,7 +3,7 @@
 // @namespace     http://userstyles.org
 // @description	  A dark mode for the archlinux website. Should work perfectly on the wiki pages and sort of work on the forum pages.
 // @author        0x7C2f
-// @homepage      https://userstyles.org/styles/182584
+// @homepage      https://github.com/GrimDevelopment/archwiki.js
 // @include       http://archlinux.org/*
 // @include       https://archlinux.org/*
 // @include       http://*.archlinux.org/*
