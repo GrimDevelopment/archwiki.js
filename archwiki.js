@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name          ArchWiki Dark mode
+// @name          ArchWiki JS
 // @namespace     http://grimdevelopment.com
 // @description	  A dark mode for the archlinux website.
 // @author        0x7C2f
